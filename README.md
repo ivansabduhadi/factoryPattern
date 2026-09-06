@@ -5,5 +5,5 @@
  4. Submit the your own version gitHub URL here.
 
 
-## Class Diagram
-[https://github.com/ivansabduhadi/factoryPattern]
+
+
