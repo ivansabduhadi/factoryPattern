@@ -5,7 +5,8 @@
  4. Submit the your own version gitHub URL here.
 
 ## Class Diagram
-<img width="1324" height="512" alt="image" src="https://github.com/user-attachments/assets/deb75fc7-7069-4e7f-a12f-0e4d7279fd86" />
+<img width="1369" height="493" alt="image" src="https://github.com/user-attachments/assets/a1f5638b-96dd-47d5-9fca-017d6bec041c" />
+
 
 
 
